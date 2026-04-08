@@ -2,7 +2,7 @@
 
 # Hi, I'm Manish 👋
 
-### Final Year CS Student · Systems & Full-Stack Developer
+### Final Year Student · Systems & Full-Stack Developer
 
 *Building native Android apps in pure Rust — no Java, no Kotlin, no compromise.*
 
