@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Final year B.Tech CS student based in **India**
+- 🎓 Final year B.Tech student based in **IIT Bhubaneswar**
 - 🦀 I write **Rust** for Android — full stack: UI (Slint), server (Axum), DB (SQLx/SQLite)
 - 🌐 Also build full-stack web apps with **Node.js + React**
 - 📐 Strong in **CS fundamentals** — DSA, OS, DBMS, CN
